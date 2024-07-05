@@ -15,5 +15,6 @@ for i in list_b:
     d=i.split("x")
     list_c.append(d[1])
 print(*list_c)
+#inputs
 #10110111000010010011011001010111111000111010010010000
 #4
