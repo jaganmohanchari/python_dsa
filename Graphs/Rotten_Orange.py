@@ -32,3 +32,4 @@ class solution:
                 if matrix[i][j]==1 and visited[i][j]==0:
                     return -1 
         return ans
+
